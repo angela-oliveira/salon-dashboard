@@ -44,7 +44,6 @@ export const Photo = styled.div`
 export const NameCard = styled.div`
     font-family: Arial;
     font-size: 24px;
-    font-styled: bold;
     color: #565656;
     line-height: 1.5;
 `;
