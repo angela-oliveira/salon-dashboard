@@ -1,4 +1,4 @@
-# salon-dashboard
+# Desafio dashboard salão de beleza
 
 ## Rodando a API
 
